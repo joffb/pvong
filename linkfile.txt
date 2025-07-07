@@ -1,0 +1,3 @@
+[objects]
+main.o
+../pvbanjo/lib/banjo.lib

@@ -1,0 +1,7 @@
+*.o
+*.bin
+*.sym
+gfx_bin/*
+music_asm/*
+cfg/
+
